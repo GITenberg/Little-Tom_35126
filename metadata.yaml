@@ -1,0 +1,41 @@
+_repo: Little-Tom_35126
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Štáfl, Ot. (Otakar)
+    aliases:
+    - Štáfl, O. (Otakar)
+    - Stafl, Otakar
+    - Štáfl, Otakar
+    birthdate: 1884
+    deathdate: 1945
+    gutenberg_agent_id: '37481'
+    url: http://www.gutenberg.org/2009/agents/37481
+    wikipedia: http://cs.wikipedia.org/wiki/Otakar_%C5%A0t%C3%A1fl
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tille, Václav
+    alias: Tille, Vaclav
+    birthdate: 1867
+    deathdate: 1937
+    gutenberg_agent_id: '37480'
+    url: http://www.gutenberg.org/2009/agents/37480
+    wikipedia: http://cs.wikipedia.org/wiki/V%C3%A1clav_Tille
+description: ''
+gutenberg_issued: '2011-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Children''s stories'
+title: Little Tom
+url: http://www.gutenberg.org/ebooks/35126
