@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37480
     wikipedia: http://cs.wikipedia.org/wiki/V%C3%A1clav_Tille
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35126#Little-Tom
 gutenberg_issued: '2011-01-31'
 gutenberg_type: Text
 identifiers:
